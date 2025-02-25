@@ -32,12 +32,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "50ff35e50f1d52c609532befaabee508",
 "/": "50ff35e50f1d52c609532befaabee508",
-"main.dart.js": "fa76ec6d7cc9e3e7f1805bc701128fcd",
+"/DASHBOARD_LOJA_SHOPEE/main.dart.js": "fa76ec6d7cc9e3e7f1805bc701128fcd",
 "manifest.json": "b3e95228e800451d9c96a006c4a78ffe",
 "version.json": "d3ed043b8059ba2f7e0427a83337a459"};
 // The application shell files that are downloaded before a service worker can
 // start.
-const CORE = ["main.dart.js",
+const CORE = ["/DASHBOARD_LOJA_SHOPEE/main.dart.js",
 "index.html",
 "flutter_bootstrap.js",
 "assets/AssetManifest.bin.json",
